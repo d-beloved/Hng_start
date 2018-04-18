@@ -1,0 +1,33 @@
+html,
+body {
+  font-family: 'Open Sans', sans-serif;
+  height: 100%;
+  background-image: url('../images/watch2.jpg');
+  background-size: 100% 100%;
+}
+.head {
+  margin-top: 0.5em;
+  font-weight:bold;
+  color: white;
+}
+.oya {
+  margin-top: 6em;
+  color: white;
+}
+.time {
+  border-radius:10px;
+  padding-top:2em;
+  padding-bottom:2em;
+  text-align: center;
+  background-color: #e6dcd573;
+  border: 2px solid black;
+  color: white;
+}
+div .dat {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+div .tim {
+  font-size: 3em;
+  font-weight: bold;
+}
